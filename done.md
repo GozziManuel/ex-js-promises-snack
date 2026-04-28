@@ -25,10 +25,10 @@ SNACK 1
 // .then((title) => console.log(title))
 // .catch((error) => console.error(error));
 
+// METHOD 2
 // // let id = 2;
 // let userId = id;
 
-// METHOD 2
 // const getPostId = new Promise((resolve, reject) => {
 // fetch(`https://dummyjson.com/users/${userId}`)
 // .then((response) => response.json())
